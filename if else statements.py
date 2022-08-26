@@ -14,5 +14,5 @@ if deposit > 100 :
     freeToaster = True
 
 if freeToaster :
-    print('I love you!!1!!1!1')
+    print('Thank you')
 print('have a nice day')
